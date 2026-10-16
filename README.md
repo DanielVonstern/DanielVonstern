@@ -25,25 +25,21 @@ Focused on cyberdefense and the integration of artificial intelligence into secu
 
 ## Skills
 
-**Cyberdefense & SOC** — incident detection and response, detection engineering, SIEM/SOAR/EDR/NDR/XDR, IDS/IPS, case management, threat hunting
-
-**Forensics & Malware Analysis** — memory, disk and network forensics, static and dynamic malware analysis, reverse engineering
-
-**Threat Intelligence & OSINT** — cyber threat intelligence, open-source intelligence gathering
-
-**Vulnerability Management & Audit** — vulnerability scanning and prioritization (CVSS), remediation tracking, security audits, Zero Trust principles
-
-**Systems & Network Administration** — Windows/Linux/macOS administration, virtualization, networking, monitoring, IT support
-
-**Cloud & DevSecOps** — multi-cloud environments, identity and access management, CI/CD pipeline security, static and dependency analysis, containers, Infrastructure as Code
-
-**Artificial Intelligence** — AI agent design, RAG architectures, MCP servers, prompt engineering, guardrails, multi-agent orchestration, AI red teaming
-
-**Governance, Risk & Compliance** — security governance, risk management, compliance frameworks, risk analysis methodology, security controls and KPIs
-
-**Programming** — Python, PowerShell, Bash, SQL, C++, x86-64 Assembly
-
-**Languages** — French, English
+- **Systems administration and security**: Linux, Windows, Proxmox
+- **Network administration**: firewall, router, switch, proxy
+- **Infrastructure monitoring**: Zabbix, Grafana, Prometheus
+- **Cloud administration and security**: AWS, Azure, GCP, OVH
+- **DevSecOps**: securing CI/CD pipelines and Docker containers
+- **Security incident detection and response, threat hunting**
+- **Forensic analysis and malware analysis**
+- **Cyber Threat Intelligence (CTI) and OSINT**
+- **Vulnerability assessment, management and compliance**
+- **Governance and risk management**: ISO 27001, EBIOS RM
+- **Identity and access management (IAM)**
+- **AI agent design**: RAG architectures, MCP, prompt engineering, guardrails and LangChain
+- **AI orchestration & cloud platforms**: Amazon Bedrock, Microsoft Foundry, Google Vertex AI
+- **AI tools & assistants**: Claude (Cowork/Code), ChatGPT, Copilot, Gemini, Mistral and Grokbot
+- **Programming**: Python, x86-64 assembly, PowerShell, Bash
 
 ---
 
