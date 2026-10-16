@@ -25,28 +25,52 @@ Focused on cyberdefense and the integration of artificial intelligence into secu
 
 ## Skills
 
-- **Systems administration and security**: Linux, Windows, Proxmox
-- **Network administration**: firewall, router, switch, proxy
-- **Infrastructure monitoring**: Zabbix, Grafana, Prometheus
-- **Cloud administration and security**: AWS, Azure, GCP, OVH
-- **DevSecOps**: securing CI/CD pipelines and Docker containers
-- **Security incident detection and response, threat hunting**
-- **Forensic analysis and malware analysis**
-- **Cyber Threat Intelligence (CTI) and OSINT**
-- **Vulnerability assessment, management and compliance**
-- **Governance and risk management**: ISO 27001, EBIOS RM
-- **Identity and access management (IAM)**
-- **AI agent design**: RAG architectures, MCP, prompt engineering, guardrails and LangChain
-- **AI orchestration & cloud platforms**: Amazon Bedrock, Microsoft Foundry, Google Vertex AI
-- **AI tools & assistants**: Claude (Cowork/Code), ChatGPT, Copilot, Gemini, Mistral and Grokbot
-- **Programming**: Python, x86-64 assembly, PowerShell, Bash
+![Systems administration and security](https://img.shields.io/badge/Systems%20administration%20and%20security-070A18?style=flat-square)
+Linux, Windows, Proxmox
+
+![Network administration](https://img.shields.io/badge/Network%20administration-070A18?style=flat-square)
+firewall, router, switch, proxy
+
+![Infrastructure monitoring](https://img.shields.io/badge/Infrastructure%20monitoring-070A18?style=flat-square)
+Zabbix, Grafana, Prometheus
+
+![Cloud administration and security](https://img.shields.io/badge/Cloud%20administration%20and%20security-070A18?style=flat-square)
+AWS, Azure, GCP, OVH
+
+![DevSecOps](https://img.shields.io/badge/DevSecOps-070A18?style=flat-square)
+securing CI/CD pipelines and Docker containers
+
+![Security incident detection and response, threat hunting](https://img.shields.io/badge/Security%20incident%20detection%20and%20response%2C%20threat%20hunting-070A18?style=flat-square)
+
+![Forensic analysis and malware analysis](https://img.shields.io/badge/Forensic%20analysis%20and%20malware%20analysis-070A18?style=flat-square)
+
+![Cyber Threat Intelligence (CTI) and OSINT](https://img.shields.io/badge/Cyber%20Threat%20Intelligence%20(CTI)%20and%20OSINT-070A18?style=flat-square)
+
+![Vulnerability assessment, management and compliance](https://img.shields.io/badge/Vulnerability%20assessment%2C%20management%20and%20compliance-070A18?style=flat-square)
+
+![Governance and risk management](https://img.shields.io/badge/Governance%20and%20risk%20management-070A18?style=flat-square)
+ISO 27001, EBIOS RM
+
+![Identity and access management (IAM)](https://img.shields.io/badge/Identity%20and%20access%20management%20(IAM)-070A18?style=flat-square)
+
+![AI agent design](https://img.shields.io/badge/AI%20agent%20design-070A18?style=flat-square)
+RAG architectures, MCP, prompt engineering, guardrails and LangChain
+
+![AI orchestration and cloud platforms](https://img.shields.io/badge/AI%20orchestration%20%26%20cloud%20platforms-070A18?style=flat-square)
+Amazon Bedrock, Microsoft Foundry, Google Vertex AI
+
+![AI tools and assistants](https://img.shields.io/badge/AI%20tools%20%26%20assistants-070A18?style=flat-square)
+Claude (Cowork/Code), ChatGPT, Copilot, Gemini, Mistral and Grokbot
+
+![Programming](https://img.shields.io/badge/Programming-070A18?style=flat-square)
+Python, x86-64 assembly, PowerShell, Bash
 
 ---
 
 ## Contribution Graph
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NoxCaellum/NoxCaellum/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NoxCaellum/NoxCaellum/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NoxCaellum/NoxCaellum/output/pacman-contribution-graph.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NoxCaellum/NoxCaellum/output/galaga-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NoxCaellum/NoxCaellum/output/galaga-contribution-graph.svg">
+    <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/NoxCaellum/NoxCaellum/output/galaga-contribution-graph.svg">
 </picture>
