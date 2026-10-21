@@ -8,7 +8,7 @@
 
 Focused on cyberdefense and the integration of artificial intelligence into security tooling and processes. I take part in CTFs and AI red teaming competitions (assessing the robustness and security of AI models against adversarial attacks).
 
-[Portfolio](https://noxcaellum.vercel.app) · [TryHackMe](https://tryhackme.com/p/NoxCaellum) · [Gray Swan Arena](https://app.grayswan.ai/arena/user/6a9a78ce515b33c53531df2a)
+[Portfolio](https://dvonstern.vercel.app) · [TryHackMe](https://tryhackme.com/p/NoxCaellum) · [Gray Swan Arena](https://app.grayswan.ai/arena/user/6a9a78ce515b33c53531df2a)
 
 ---
 
