@@ -4,7 +4,7 @@
 
 </div>
 
-# NoxCaellum
+# Daniel Vonstern
 
 Focused on cyberdefense and the integration of artificial intelligence into security tooling and processes. I take part in CTFs and AI red teaming competitions (assessing the robustness and security of AI models against adversarial attacks).
 
@@ -17,9 +17,9 @@ Focused on cyberdefense and the integration of artificial intelligence into secu
 | Project | Description |
 |---|---|
 | **AI4SOC** *(private repository)* | AI-driven triage and enrichment of security alerts (LLM + machine learning) for SOCs, automating part of Incident Response |
-| **[Snake](https://github.com/NoxCaellum/Snake)** | Research Command & Control framework centered on encrypted communications (ECDHE SECP384R1, AES-256-GCM, Perfect Forward Secrecy) |
-| **[WannaCry – Reverse Engineering](https://github.com/NoxCaellum/WannaCry_reverse_engineering)** | Analysis of the WannaCry ransomware's cryptographic mechanisms (static and dynamic) |
-| **[Malware Analysis for Beginners](https://github.com/NoxCaellum/Malware-Analysis-for-beginners)** | Educational resources to get started with malware analysis |
+| **[Snake](https://github.com/DanielVonstern/Snake)** | Research Command & Control framework centered on encrypted communications (ECDHE SECP384R1, AES-256-GCM, Perfect Forward Secrecy) |
+| **[WannaCry – Reverse Engineering](https://github.com/DanielVonstern/WannaCry_reverse_engineering)** | Analysis of the WannaCry ransomware's cryptographic mechanisms (static and dynamic) |
+| **[Malware Analysis for Beginners](https://github.com/DanielVonstern/Malware-Analysis-for-beginners)** | Educational resources to get started with malware analysis |
 
 ---
 
@@ -46,7 +46,7 @@ Focused on cyberdefense and the integration of artificial intelligence into secu
 ## Contribution Graph
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NoxCaellum/NoxCaellum/output/galaga-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NoxCaellum/NoxCaellum/output/galaga-contribution-graph.svg">
-    <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/NoxCaellum/NoxCaellum/output/galaga-contribution-graph.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DanielVonstern/NoxCaellum/output/galaga-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DanielVonstern/NoxCaellum/output/galaga-contribution-graph.svg">
+    <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/DanielVonstern/NoxCaellum/output/galaga-contribution-graph.svg">
 </picture>
